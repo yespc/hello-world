@@ -1,2 +1,4 @@
 # hello-world
-my first github project
+This is my first github project.
+It's just a test.
+I'm yespc.
